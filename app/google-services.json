@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "662662210899",
+    "firebase_url": "https://chatapp-9b7ac.firebaseio.com",
+    "project_id": "chatapp-9b7ac",
+    "storage_bucket": "chatapp-9b7ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662662210899:android:39a0bed863c38c82",
+        "android_client_info": {
+          "package_name": "com.epicodus.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662662210899-9jmq6mudrf5ge8mao01ats8lo6i9l1fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJt82VKFx04IyXQnh0eqt82AsUR18SnQU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
